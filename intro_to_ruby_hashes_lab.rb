@@ -15,7 +15,7 @@ end
 
 def monopoly_with_third_tier
   hash = {
-    railroads: {pieces: 4, rent_in_dollars: {:names => [], location: [], dumb: [], lame: []}}
+    railroads: {pieces: 4, rent_in_dollars: {:names => [], location: [], price: [], blue: []}}
   }
 end
 
